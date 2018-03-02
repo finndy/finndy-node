@@ -25,7 +25,7 @@
 
 本项目包含的第三方源码和二进制文件之版权信息另行标注。
 
-版权所有Copyright © 2015-2018 by 发源地大数据 (http://www.finndy.com)
+版权所有Copyright © 2015-20180302 by 发源地大数据 (http://www.finndy.com)
 
 All rights reserved。
 
